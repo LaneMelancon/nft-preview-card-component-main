@@ -105,7 +105,7 @@ a:hover {
 
 .card__image {
   height: 18.875rem;
-  background-image: url("images/image-equilibrium.jpg");
+  background-image: url("/images/image-equilibrium.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -142,7 +142,7 @@ a:hover {
   position: absolute;
   width: 2.875rem;
   height: 1.875rem;
-  background-image: url("images/icon-view.svg");
+  background-image: url("/images/icon-view.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -216,7 +216,7 @@ a:hover {
 .card__info .price .icon {
   width: 0.8125rem;
   height: 1.25rem;
-  background-image: url("images/icon-ethereum.svg");
+  background-image: url("/images/icon-ethereum.svg");
 }
 
 .card__info .date {
@@ -231,7 +231,7 @@ a:hover {
 .card__info .date .icon {
   width: 0.875rem;
   height: 0.875rem;
-  background-image: url("images/icon-clock.svg");
+  background-image: url("/images/icon-clock.svg");
 }
 
 .card__creator {
@@ -249,7 +249,7 @@ a:hover {
   border: 1px solid;
   border-color: white;
   border-radius: 50%;
-  background-image: url("images/image-avatar.png");
+  background-image: url("/images/image-avatar.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;

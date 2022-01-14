@@ -16,7 +16,7 @@
 
 	&__image {
 		height: 18.875rem;
-		background-image: url("images/image-equilibrium.jpg");
+		background-image: url("/images/image-equilibrium.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center center;
@@ -49,7 +49,7 @@
 			position: absolute;
 			width: 2.875rem;
 			height: 1.875rem;
-			background-image: url("images/icon-view.svg");
+			background-image: url("/images/icon-view.svg");
 			background-size: cover;
 			background-repeat: no-repeat;
 			background-position: center center;
@@ -110,7 +110,7 @@
 			.icon {
 				width: 0.8125rem;
 				height: 1.25rem;
-				background-image: url("images/icon-ethereum.svg");
+				background-image: url("/images/icon-ethereum.svg");
 			}
 		}
 
@@ -121,7 +121,7 @@
 			.icon {
 				width: 0.875rem;
 				height: 0.875rem;
-				background-image: url("images/icon-clock.svg");
+				background-image: url("/images/icon-clock.svg");
 			}
 		}
 	}
@@ -136,7 +136,7 @@
 			border: 1px solid;
 			border-color: $white;
 			border-radius: 50%;
-			background-image: url("images/image-avatar.png");
+			background-image: url("/images/image-avatar.png");
 			background-size: contain;
 			background-repeat: no-repeat;
 			background-position: center center;
